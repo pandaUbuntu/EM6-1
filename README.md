@@ -2,3 +2,5 @@
 Mario
 Sonic
 Pikachy
+Horse Bo-Jack
+Maloy
